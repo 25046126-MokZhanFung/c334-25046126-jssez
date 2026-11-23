@@ -19,7 +19,7 @@ an AI advisor chat that opens from a button at the bottom right.
 - Use n8n's widget @n8n/chat version 1.46.5 from jsDelivr:
   style.css and chat.bundle.es.js.
 - Call createChat with mode 'window' (round button, bottom right).
-- webhookUrl: <PASTE YOUR CHAT URL HERE>
+- webhookUrl: https://agenticflows.tokencraze.org/webhook/e132be1b-bfaa-4148-8589-b644285802c5/chat
 - Chat title "JS-SEZ advisor"; two short initial messages.
 - loadPreviousSession: false.
  
